@@ -28,5 +28,3 @@ Ikon: Bootstrap Icons
 Peta: Google Maps Embed (tanpa API key)
 
 Hosting (opsional): GitHub Pages, Netlify, atau server lokal seperti XAMPP.
-
-🧭 Struktur Folder (Contoh)
